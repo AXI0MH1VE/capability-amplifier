@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or build upon the capability-amplifier methodology, please cite it as below."
+type: software
+title: "capability-amplifier"
+authors:
+  - name: "Axiom Hive Institutional"
+    alias: "Nicholas Michael Grossi"
+    affiliation: "Principal & CEO"
+repository-code: "https://github.com/axiomhive-institutional/capability-amplifier"
+license: MIT (Core) / Commercial (Frameworks)
